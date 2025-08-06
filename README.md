@@ -16,5 +16,6 @@ git clone https://github.com/1muratr1/VirusTotal-Checker.git
 
 ```bash
 cd VirusTotal-Checker
+Create api_key.txt file and put your VT API Key in that file
 python VirusTotal_Check.py
 ```
